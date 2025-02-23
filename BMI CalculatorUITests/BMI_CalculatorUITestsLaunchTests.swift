@@ -2,7 +2,7 @@
 //  BMI_CalculatorUITestsLaunchTests.swift
 //  BMI CalculatorUITests
 //
-//  Created by Jamisel Roman on 2/22/25.
+//  Created by Ennis Cruz on 2/22/25.
 //
 
 import XCTest
